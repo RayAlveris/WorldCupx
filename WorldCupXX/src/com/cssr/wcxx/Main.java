@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Master CodeBase");
         System.out.println("yuh - Lee-Roy");
-        System.out.println("CodeBase After Clone");
+        System.out.println("CodeBase After Clon");
     }
 }
